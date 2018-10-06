@@ -420,11 +420,11 @@
 				TargetAttributes = {
 					0E7E8C801D0BC7BB0057A1C1 = {
 						CreatedOnToolsVersion = 7.3.1;
-						LastSwiftMigration = 0930;
+						LastSwiftMigration = "";
 					};
 					0E7E8C8A1D0BC7BB0057A1C1 = {
 						CreatedOnToolsVersion = 7.3.1;
-						LastSwiftMigration = 0930;
+						LastSwiftMigration = "";
 					};
 					0E7E8CB41D0BC98B0057A1C1 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -788,7 +788,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = net.yaslab.CSV;
 				PRODUCT_NAME = CSV;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -808,7 +808,7 @@
 				PRODUCT_NAME = CSV;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -820,7 +820,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "net.yaslab.CSVTests-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -833,7 +833,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "net.yaslab.CSVTests-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
